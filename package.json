@@ -2,10 +2,10 @@
   "name": "js-blocking-queue",
   "version": "1.0.0",
   "description": "A simple blocking queue based on promises.",
-  "main": "index.js",
+  "main": "queue.js",
   "scripts": {
-    "start": "node .",
-    "dev": "npx nodemon .",
+    "start": "node index.js",
+    "dev": "npx nodemon index.js",
     "test": "mocha",
     "test:watch": "npx nodemon --exec mocha"
   },

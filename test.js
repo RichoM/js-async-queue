@@ -1,4 +1,4 @@
-const Queue = require("./index");
+const Queue = require("./queue");
 const assert = require('assert');
 
 function sleep(ms) { return new Promise(res => setTimeout(res, ms)); }
