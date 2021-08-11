@@ -4,7 +4,10 @@
   "description": "A simple blocking queue based on promises.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "start": "node .",
+    "dev": "npx nodemon .",
+    "test": "mocha",
+    "test:watch": "npx nodemon --exec mocha"
   },
   "repository": {
     "type": "git",
