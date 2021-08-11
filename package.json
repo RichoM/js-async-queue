@@ -1,0 +1,22 @@
+{
+  "name": "js-blocking-queue",
+  "version": "1.0.0",
+  "description": "A simple blocking queue based on promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichoM/js-blocking-queue.git"
+  },
+  "author": "Ricardo Moran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichoM/js-blocking-queue/issues"
+  },
+  "homepage": "https://github.com/RichoM/js-blocking-queue#readme",
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
