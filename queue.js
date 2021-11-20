@@ -1,4 +1,4 @@
-class Queue {
+class AsyncQueue {
   items = [];
   #pending = [];
   get length() {
@@ -21,4 +21,4 @@ class Queue {
   }
 }
 
-module.exports = Queue;
+module.exports = AsyncQueue;
