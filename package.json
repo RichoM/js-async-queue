@@ -1,7 +1,7 @@
 {
-  "name": "js-blocking-queue",
+  "name": "js-async-queue",
   "version": "1.0.0",
-  "description": "A simple blocking queue based on promises.",
+  "description": "A simple asynchronous queue based on js promises.",
   "main": "queue.js",
   "scripts": {
     "start": "node index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RichoM/js-blocking-queue.git"
+    "url": "git+https://github.com/RichoM/js-async-queue.git"
   },
   "author": "Ricardo Moran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RichoM/js-blocking-queue/issues"
+    "url": "https://github.com/RichoM/js-async-queue/issues"
   },
-  "homepage": "https://github.com/RichoM/js-blocking-queue#readme",
+  "homepage": "https://github.com/RichoM/js-async-queue#readme",
   "devDependencies": {
     "mocha": "^9.0.3"
   }

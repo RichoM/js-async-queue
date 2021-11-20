@@ -1,4 +1,4 @@
-# js-blocking-queue
+# js-async-queue
 
 This is a simple asynchronous queue with an unbounded buffer (puts never block, takes can block if the buffer is empty).
 
