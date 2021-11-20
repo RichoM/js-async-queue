@@ -1,5 +1,5 @@
 {
-  "name": "js-async-queue",
+  "name": "@richov/js-async-queue",
   "version": "1.0.0",
   "description": "A simple asynchronous queue based on js promises.",
   "main": "queue.js",
